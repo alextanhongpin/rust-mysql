@@ -1,0 +1,12 @@
+[package]
+name = "rocket-sample"
+version = "0.1.0"
+authors = ["alextanhongpin <alextan@seekasia.com>"]
+
+[dependencies]
+rocket = "0.3.9"
+rocket_codegen = "0.3.9"
+rocket_contrib = "0.3.9"
+r2d2 = "0.8.2"
+r2d2_mysql = "8.0.0"
+mysql = "12.3.1"
